@@ -1,13 +1,13 @@
-job delivery,delivery day,dest PL,Cast width,roll width,thickness,Warm
-j1,0,GS,1570,1540,6.0,yes
-j2,2,CRM,1570,1540,8.0,yes
-j3,2,PL,1570,1540,12.0,yes
-j4,2,CRM,1420,1370,8.0,no
-j5,3,PL,1290,1275,5.1,no
-j6,5,pL,1290,1275,3.1,no
-j7,3,GS,1270,1240,4.0,yes
-j8,3,CRM,1250,1224,3.1,yes
-j9,4,CRM,1160,1120,4.1,yes
-j10,3,CRM,1160,1140,6.0,yes
-j11,4,GS,1160,1140,6.0,no
-j12,5,GS,1125,1110,8.0,no
+job delivery,delivery day,dest,Cast width,roll width,thickness,Warm
+j1,0,GalvanazingSop,1570,1540,6.0,yes
+j2,2,ColdRollingMill,1570,1540,8.0,yes
+j3,2,PicklingLine,1570,1540,12.0,yes
+j4,2,ColdRollingMill,1420,1370,8.0,no
+j5,3,PicklingLine,1290,1275,5.1,no
+j6,5,PicklingLine,1290,1275,3.1,no
+j7,3,GalvanazingSop,1270,1240,4.0,yes
+j8,3,ColdRollingMill,1250,1224,3.1,yes
+j9,4,ColdRollingMill,1160,1120,4.1,yes
+j10,3,ColdRollingMill,1160,1140,6.0,yes
+j11,4,GalvanazingSop,1160,1140,6.0,no
+j12,5,GalvanazingSop,1125,1110,8.0,no
